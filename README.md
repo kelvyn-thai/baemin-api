@@ -1,1 +1,3 @@
-# baemin-be
+# baemin-api
+
+bae min api
