@@ -12,7 +12,8 @@ In the project directory, you can run:
 | Command     |        Description        |       ENV        |
 | :---------- | :-----------------------: | :--------------: |
 | npm install |       Install NPM.        |
-| npm         | Runs the app on port 3000 | .env.development |
+| npm start        | Runs the app on port 3000 | .env.development |
+| npm run start:dev        | Runs the app on dev mode port 3000 | .env.development |
 
 ## How to run this project?
 
